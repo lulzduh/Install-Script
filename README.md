@@ -1,0 +1,1 @@
+This will install the following applications to a fedora install, Openssh, Openh264, Nmap, Flatpak, Adds flatpak repo, Prusa slicer, Librewolf, KeepassXC, Shotcut, OBS, Tor browser bundle, VScodium, and Google chrome.
